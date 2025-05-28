@@ -14,7 +14,7 @@ An Android application that scans available WiFi networks, displays them in a dr
 - Auto-refresh WiFi scan every 30 seconds
 - Monitor last WiFi network switch status
 - Supports Android 10+ (uses WifiNetworkSpecifier API) and older versions
-- <img src="summary.png" width=50%>
+- <img src="Image/summary.png" width=50%>
 
 ---
 
@@ -96,5 +96,5 @@ The app requires the following permissions:
 - For Android 10+, the app cannot connect to networks programmatically if the device does not support the `WifiNetworkSpecifier` API.
 
 ---
-<img src="wifi.jpeg" height=500 width=300>
-<img src="fiwi.jpeg" height=500 width=500>
+<img src="Image/fiwi.jpeg" width="55%" /> 
+<img src="Image/wifi.jpeg" width="45%" style="height:750px;"/>
