@@ -56,3 +56,5 @@ The app requires the following permissions:
 - For Android 10+, the app cannot connect to networks programmatically if the device does not support the `WifiNetworkSpecifier` API.
 
 ---
+<img src="wifi.jpeg" height=500 width=300>
+<img src="fiwi.jpeg" height=500 width=500>
